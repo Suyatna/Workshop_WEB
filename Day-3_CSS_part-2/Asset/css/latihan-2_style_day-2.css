@@ -1,0 +1,34 @@
+#kotak1 {
+    background: red;
+    margin: auto;
+}
+
+#kotak2 {
+    background: blue;
+    margin: auto;
+    position: fixed;
+    left: 8px;
+}
+
+#kotak3 {
+    background: yellowgreen;
+    clear: both;
+}
+
+#kotak4 {
+    background: gray;
+    clear: both;
+}
+
+.kotak {
+    padding: 10px;
+    width: 200px;
+    height: 150px;
+    color: white;
+}
+
+.clearfix {
+    float: none;
+    clear: both;
+    margin: 0;
+}

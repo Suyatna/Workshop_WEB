@@ -1,0 +1,37 @@
+#hero {
+    background-image: url("../img/Imagery/pexels-photo-58997.jpeg");
+    background-size: cover;
+    height: 700px;
+    padding-top: 250px;
+    text-align: center;
+    color: white;
+}
+
+#hero h1 {
+    font-size: 4em;
+    font-weight: bold;
+}
+
+#hero h2 {
+    font-size: 2em;
+    font-weight: lighter;
+}
+
+.btn.btn-custom {
+    border: 1px solid #01b9fc;
+    border-radius: 20px;
+    background: #01b9fc;
+    padding: 10px 32px;
+    margin: 40px;
+    color: white;
+    font-weight: bold;
+    transition: ease 0.3s;
+}
+
+.btn.btn-custom:hover {
+    background: transparent;
+}
+
+#service h1 {
+    text-align: center;
+}

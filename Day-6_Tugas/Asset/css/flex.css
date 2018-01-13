@@ -1,0 +1,16 @@
+body {
+    background: #3cb371;
+}
+
+header p {
+    font-family: sans-serif;
+    color: white;
+    font-size: 12px;
+    text-align: center;
+}
+
+#header {
+    text-align: center;
+    font-family: sans-serif;
+    color: white;
+}

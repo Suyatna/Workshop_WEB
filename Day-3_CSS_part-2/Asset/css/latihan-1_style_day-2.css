@@ -1,0 +1,42 @@
+body {
+    background: white;
+    font-family: 'segoe UI';
+}
+
+header {
+    background: blue;
+    height: 150px;
+    border: 2px gray solid;
+    /* berdasarkan sisi
+    border-left: 5px gray solid;
+    */
+}
+
+#artikel {
+    background: gray;
+}
+
+#artikel h1 {
+    padding: 3px;
+    background: green;
+    color: white;
+}
+
+#evant {
+    padding: 3px;
+    background: orange;
+    color: white;
+}
+
+.coloumn {}
+
+.widget h1 {
+    background: greenyellow;
+    color: red;
+    padding: 3px;
+}
+
+.widget ul li:last-child {
+    background: blue;
+    color: yellowgreen;
+}

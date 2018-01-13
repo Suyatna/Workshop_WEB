@@ -1,0 +1,71 @@
+img{
+    width: 100%;
+}
+.navbar{
+    margin-bottom: 0px;
+}
+
+#hero{
+    background-image: url('../img/Imagery/pexels-photo-58997.jpeg');
+    background-size: cover;
+    height: 700px;  
+    text-align: center;
+    padding-top: 250px;  
+    color: white;
+}
+#hero h1{
+    font-size: 4em;
+    font-weight: bold;
+}
+#hero h2{
+    font-size: 2em;
+    font-weight: lighter;
+}
+
+.btn.btn-custom{
+    margin: 40px;
+    border: 1px solid #07b8fb;
+    border-radius: 20px;
+    background: #07b8fb;
+    padding: 10px 32px;
+    color: white;
+    font-weight: bold;
+    transition: ease 0.3s;
+}
+.btn.btn-custom:hover{
+    background: transparent;
+}
+#service{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    
+}
+#service .content{
+    padding: 10px;
+}
+#service .content{
+    text-align: justify;
+}
+#service img{
+    object-fit: cover;
+    height: 200px;
+}
+#service h1{
+    text-align: center; 
+}
+#service article{
+    padding: 0px;
+    box-shadow: 0px 5px 20px 0px rgba(0, 0, 0, 0.5);
+    height: 450px
+}
+#register{
+    background-image: linear-gradient(0deg,rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url('../img/Imagery/dog-pet.jpg');
+    background-size: cover;
+    height: 700px;  
+    padding-top: 250px;  
+    color: white;
+}
+#register p{
+    width: 400px;
+    text-align: justify;
+}
